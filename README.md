@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I'm Bryan Wu
+### I'm currently finishing my undergrad in Computer Engineering at San Diego State University
+### And I also play 原神
 <!--
 **bwu12eng/bwu12eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
