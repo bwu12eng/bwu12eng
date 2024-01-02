@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Bryan Wu
-### I currently have my Bachelor's in Computer Engineering, graduating from San Diego State University
+### I have completed my Bachelor's in Computer Engineering, graduating from San Diego State University
 ### And I also play 原神
 <!--
 **bwu12eng/bwu12eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
